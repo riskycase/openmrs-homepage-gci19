@@ -1,0 +1,12 @@
+/* 
+WOO CUSTOM STYLESHEET
+---------------------
+
+Instructions:
+
+Add your custom styles in this file instead of style.css so it 
+is easier to update the theme. Simply copy an existing style 
+from style.css to this file, and modify it to your liking. */
+
+#main.col-full, .layout-full #main, .col-full, #main.fullwidth {width: 1000px; margin:0 auto;}
+#main{width:675px;}

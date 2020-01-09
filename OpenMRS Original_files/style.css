@@ -1,0 +1,10 @@
+/*
+Theme Name: Simplicity OpenMRS Child
+Version: 1.0
+Description: Child theme of simplicity for OpenMRS
+Author: Elliott Williams
+Author URI: http://openmrs.org
+Template: simplicity
+*/
+
+@import url("../simplicity/style.css");
